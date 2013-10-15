@@ -1,0 +1,1 @@
+This is the main folder for all files, projects, etc. pertaining to KryptoKronik Studios
